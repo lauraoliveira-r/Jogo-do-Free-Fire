@@ -1,2 +1,2 @@
-# Jogo-do-Free-Fire
-Personagens do Free Fire
+# Personagens de um Jogo
+Personagens de um Jogo
